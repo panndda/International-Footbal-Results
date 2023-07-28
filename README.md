@@ -1,4 +1,4 @@
-# International-Footbal-Results
+# International-Football-Results
 
 A Tableau dashboard showing analysis of International Football Results since 1872.
 
